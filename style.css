@@ -295,6 +295,10 @@ nav.sticking {
     background-color: #161616;
 }
 
+.courses-conatiner {
+    width: 75%;
+}
+
 .section-title {
     font-size: 28px;
     font-weight: 400;
@@ -377,6 +381,11 @@ nav.sticking {
     }
 }
 
+@media(min-width:1440px) {
+    .courses-conatiner {
+        width: 60%;
+    }
+}
 
 /* Carousel */
 
